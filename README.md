@@ -14,14 +14,13 @@
 ```
 .
 ├── test.py           # 模型训练脚本
-├── __pycache__       # python缓存
 ├── data              # 模型训练本地数据
 ├── test_model.py     # 模型测试与评估脚本
 ├── handwrite_gui.py  # 手写数字识别 GUI 应用<环境配置完成可以直接运行测试>
 ├── launch_test.py    # 虚拟环境启动脚本
 ├── run_test.sh       # Shell 运行脚本
 ├── mnist_cnn.pth     # 已经训练好的模型
-└── README.md
+└── README.md...
 ```
 
 ## 环境要求
